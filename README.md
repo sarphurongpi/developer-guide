@@ -1,8 +1,9 @@
 # Developer Guide
 ## Read
 
-### Beginners
+### Learn from microsoft
 https://github.com/microsoft/Web-Dev-For-Beginners
-
-### Intermediate
 https://microsoft.github.io/code-with-engineering-playbook/
+
+### Learn from google
+https://techdevguide.withgoogle.com/
